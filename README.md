@@ -1,1 +1,1 @@
-[AWS Sagemaker Pricing] (https://aws.amazon.com/sagemaker/ai/pricing/)
+[AWS Sagemaker Pricing](https://aws.amazon.com/sagemaker/ai/pricing/)
